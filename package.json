@@ -1,0 +1,22 @@
+{
+  "name": "vite-test",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "roboto-fontface": "*",
+    "vue": "^3.0.4",
+    "vuetify": "^3.7.0-beta.1",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^3.0.8",
+    "vite-plugin-vuetify": "^1.0.2"
+  }
+}
